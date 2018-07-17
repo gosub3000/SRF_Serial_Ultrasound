@@ -1,2 +1,2 @@
-SerialUltrasound        KEYWORD1
-getDistance             KEYWORD2
+SerialUltrasound	KEYWORD1
+getDistance	KEYWORD2
